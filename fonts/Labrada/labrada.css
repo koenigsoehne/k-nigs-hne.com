@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-Regular.woff2') format('woff2'),
+        url('Labrada-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-Italic.woff2') format('woff2'),
+        url('Labrada-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-ExtraBoldItalic.woff2') format('woff2'),
+        url('Labrada-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-Bold.woff2') format('woff2'),
+        url('Labrada-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-ExtraBold.woff2') format('woff2'),
+        url('Labrada-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-BoldItalic.woff2') format('woff2'),
+        url('Labrada-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-Black.woff2') format('woff2'),
+        url('Labrada-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-BlackItalic.woff2') format('woff2'),
+        url('Labrada-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-ExtraLightItalic.woff2') format('woff2'),
+        url('Labrada-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-LightItalic.woff2') format('woff2'),
+        url('Labrada-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-ExtraLight.woff2') format('woff2'),
+        url('Labrada-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-Light.woff2') format('woff2'),
+        url('Labrada-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-Italic.woff2') format('woff2'),
+        url('Labrada-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-Medium.woff2') format('woff2'),
+        url('Labrada-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-SemiBold.woff2') format('woff2'),
+        url('Labrada-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-Regular.woff2') format('woff2'),
+        url('Labrada-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-MediumItalic.woff2') format('woff2'),
+        url('Labrada-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-Thin.woff2') format('woff2'),
+        url('Labrada-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-SemiBoldItalic.woff2') format('woff2'),
+        url('Labrada-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Labrada';
+    src: url('Labrada-ThinItalic.woff2') format('woff2'),
+        url('Labrada-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
