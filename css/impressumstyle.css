@@ -384,15 +384,12 @@ body{
 footer section
 ========================================================================== */
 
-
-.footer {
-  
+footer {
   background-color: #333;
   color: #fff;
   padding: 50px 0;
   position:relative;
-  bottom:0;
-  z-index: 22;
+  
 }
 
 .footer-container {
@@ -445,8 +442,10 @@ footer section
     margin-left: 2em;
   }
   #bg{
+    
     top: 52%;
   }
+ 
 }
 @media screen and (max-width: 480px) {
   .footer-section {
@@ -459,6 +458,20 @@ footer section
   }
 }
 
+.copy{
+background: black;
+text-align: center;
+position: relative;
+line-height: 5;
+text-transform: uppercase;
+letter-spacing: 0.098em;
+color: #fff;
+display: flex;
+flex-direction: column;
+}
+.copy a{
+  font-size: 10px;;
+}
 
    /* ==========================================================================
    Animation Applyment
